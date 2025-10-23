@@ -1,4 +1,3 @@
-#Project Mandiri PBP 2025/2026 Ganjil  
 Nama: Mohammad Rizky Wira Adinata  
 NIM: 24051204186  
 Kelas: TI 2024F  
